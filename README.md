@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-*   🌍  I'm based in Dhaka, Bangladesh
-*   🖥️  See my portfolio at [hasibur.me](http://hasibur.me)
-*   ✉️  You can contact me at [hasiburdev@gmail.com](mailto:hasiburdev@gmail.com)
-*   🚀  I'm currently working on [JS Book](http://jsbook-editor.vercel.app/)
-*   🧠  I'm learning Next.js
-*   ⚡  I love exploring different technologies<a href="https://www.github.com/hasiburdev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/hasiburdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [hasibur.me](http://hasibur.me)
+* ✉️  You can contact me at [hasiburdev@gmail.com](mailto:hasiburdev@gmail.com)
+* 🚀  I'm currently working on [JS Book](http://jsbook-editor.vercel.app/)
+* 🧠  I'm learning Next.js
+* ⚡  I love exploring different technologies
+
+<a href="https://www.github.com/hasiburdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hasiburdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,19 +38,16 @@ Frontend Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
+
 ### Socials
-                  
-                  
-<p align="left">
 
-    <a href="https://www.facebook.com/hr.hasan44" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.facebook.com/hr.hasan44" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hasiburdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mern-stack-developer-hasibur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hasiburdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
 
-    <a href="https://www.github.com/hasiburdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<b>My GitHub Stats</b>
 
-    <a href="https://www.linkedin.com/in/mern-stack-developer-hasibur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.github.com/hasiburdev"><img src="https://github-readme-stats.vercel.app/api?username=hasiburdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hasiburdev's GitHub stats" /></a>
 
-    <a href="https://www.twitter.com/hasiburdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-    href="http://www.github.com/hasiburdev"><img src="https://github-readme-stats.vercel.app/api?username=hasiburdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hasiburdev's GitHub stats" /></a><a
-    href="http://www.github.com/hasiburdev"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=hasiburdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/hasiburdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasiburdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/hasiburdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hasiburdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/hasiburdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasiburdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
