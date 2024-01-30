@@ -7,10 +7,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [hasibur.me](http://hasibur.me)
 * ✉️  You can contact me at [hasiburdev@gmail.com](mailto:hasiburdev@gmail.com)
-* 🚀  I'm currently working on [JS Book](http://jsbook-editor.vercel.app/)
-* 🧠  I'm learning Next.js
 * ⚡  I love exploring different technologies
 
 <a href="https://www.github.com/hasiburdev" target="_blank" rel="noreferrer"><img
